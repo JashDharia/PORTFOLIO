@@ -8,33 +8,36 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />
-            I am currently employed as a software developer at Juspay.
-            <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+          Hi Everyone, I am <span className="purple">Jash Nimesh Dharia Jaliwala</span> from Syracuse
+
+          <p>
+ 
+I am currently pursuing a Master of Science in Applied Data Science at Syracuse University.  
+<br />  
+I have completed my undergraduate degree in Computer Engineering and have hands-on experience in data science, machine learning, and business analytics. Throughout my academic journey, I've developed a deep understanding of data management, predictive modeling, and analytics tools, and I am passionate about using these skills to drive impactful solutions in various domains.  
+<br />  
+Professionally, I have gained valuable experience through various roles, including:  
+<br />  
+- Graduate Technology Analyst Intern at Upstate Medical University  
+<br />  
+- Graduate Data Science Intern at J. Galt Finance Suite 
+<br />  
+- Graduate Research Assistant at Syracuse University 
+<br />  
+- Graduate Student Researcher at NEXIS Student Technology Lab  
+<br />  
+In addition to my academic and professional pursuits, I am actively involved in community service with Lions Club International, contributing to social initiatives and working to make a positive impact.  
+<br />  
+Apart from working with data, I enjoy exploring new technologies, solving complex problems, and collaborating with teams to bring innovative ideas to life!  
+</p>
+
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-          </ul>
+          
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+          "Data science is not about the data you have, but the questions you ask and the stories you uncover.""{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Jash</footer>
         </blockquote>
       </Card.Body>
     </Card>
