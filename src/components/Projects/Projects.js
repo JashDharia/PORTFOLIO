@@ -43,7 +43,7 @@ function Projects() {
               title="
                 Multi-Domain Enterprise Data Warehouse Using Snowflake and DBT"
               description="Defined data pipelines with SQL, Snowflake, and dbt to integrate data from 4 business units, deployed Power BI across domains to monitor KPIs, and improved problem-solving and customer targeting by 20%"
-              ghLink="hhttps://github.com/JashDharia/Multi-domain-enterprise-data-warehouse"
+              ghLink="https://github.com/JashDharia/Multi-domain-enterprise-data-warehouse"
               
             />
           </Col>
