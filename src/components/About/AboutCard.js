@@ -18,7 +18,7 @@ I have completed my undergraduate degree in Computer Engineering and have hands-
 <br />  
 Professionally, I have gained valuable experience through various roles, including:  
 <br />  
-- Graduate Technology Analyst Intern at Upstate Medical University  
+- Graduate Data Science Intern at Upstate Medical University  
 <br />  
 - Graduate Data Science Intern at J. Galt Finance Suite 
 <br />  

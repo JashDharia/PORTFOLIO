@@ -6,7 +6,7 @@ import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
-import new_pdf from "../../Assets/Jash Nimesh Dharia Jaliwala_Resume_2025_.pdf";
+import new_pdf from "../../Assets/Jash Nimesh Dharia Jaliwala_Resume_2025_Data Scientist.pdf";
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
