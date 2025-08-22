@@ -17,14 +17,16 @@ I am currently pursuing a Master of Science in Applied Data Science at Syracuse 
 I have completed my undergraduate degree in Computer Engineering and have hands-on experience in data science, machine learning, and business analytics. Throughout my academic journey, I've developed a deep understanding of data management, predictive modeling, and analytics tools, and I am passionate about using these skills to drive impactful solutions in various domains.  
 <br />  
 Professionally, I have gained valuable experience through various roles, including:  
+<br /> 
+- AI Engineer at Kintsugi Global 
+<br /> 
+- Graduate Data Analyst at Upstate Medical University  
 <br />  
-- Graduate Data Science Intern at Upstate Medical University  
+- Graduate Data Scientist at J. Galt Finance Suite 
 <br />  
-- Graduate Data Science Intern at J. Galt Finance Suite 
+- Data Scientist at Syracuse University 
 <br />  
-- Graduate Research Assistant at Syracuse University 
-<br />  
-- Graduate Student Researcher at NEXIS Student Technology Lab  
+- Artificial Intelligence Research Team Lead at NEXIS Student Technology Lab  
 <br />  
 In addition to my academic and professional pursuits, I am actively involved in community service with Lions Club International, contributing to social initiatives and working to make a positive impact.  
 <br />  
